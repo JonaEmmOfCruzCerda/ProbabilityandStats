@@ -1,0 +1,20 @@
+
+Número de cuenta: 1
+Saldo: 500.0
+Fecha de alta: 14 May 2024 10:27:39
+Cliente: Emmanuel OfCruz, Jocotan, Zapopan, 3314944995
+Plazo: 24
+Interés: 15
+Inversión después de 24 meses: 0.0
+
+
+
+Número de cuenta: 2
+Saldo: 2000.0
+Fecha de alta: 14 May 2024 10:37:46
+Cliente: Jonathan DeLaCruz, a, a, a
+Plazo: 36
+Interés: 10
+Inversión después de 36 meses: 7200.0
+
+

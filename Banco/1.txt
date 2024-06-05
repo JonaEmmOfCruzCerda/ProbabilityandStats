@@ -1,0 +1,28 @@
+Movimientos:
+Fecha: 14 May 2024 10:29:36
+Saldo anterior: 0.0
+Saldo actual: 10100.0
+Cantidad: 10000.0
+Tipo: Depósito
+
+Movimientos:
+Fecha: 14 May 2024 10:30:14
+Saldo anterior: 10100.0
+Saldo actual: 9600.0
+Cantidad: -500.0
+Tipo: Retiro
+
+Movimientos:
+Fecha: 14 May 2024 10:31:47
+Saldo anterior: 10100.0
+Saldo actual: 9100.0
+Cantidad: -500.0
+Tipo: Retiro
+
+Movimientos:
+Fecha: 25 May 2024 11:44:24
+Saldo anterior: 10100.0
+Saldo actual: 200.0
+Cantidad: 100.0
+Tipo: Depósito
+

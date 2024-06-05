@@ -1,0 +1,10 @@
+Numero de cuenta: 67890
+Saldo: 67800.0
+Cliente: Cliente@533ddba
+Movimientos: 
+
+Numero de cuenta: 0
+Saldo: 10.0
+Cliente: Cliente@728938a9
+Movimientos: 
+

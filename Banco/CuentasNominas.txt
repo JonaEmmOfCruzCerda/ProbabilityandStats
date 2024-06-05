@@ -1,0 +1,5 @@
+Numero de cuenta: 1
+Saldo: 100.0
+Fecha de alta: 14 May 2024 10:26:34
+Cliente: Jonathan OfCruz, Parques, Tlaquepaque, 3314944995
+
